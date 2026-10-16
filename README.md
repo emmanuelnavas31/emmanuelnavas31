@@ -4,7 +4,8 @@
 Ingeniero de Sistemas y Computación con +6 años construyendo backends en Python. Diseño APIs seguras y escalables, optimizo bases de datos y llevo las soluciones a la nube, integrando IA donde aporta valor real al negocio.
 
 📍 Arauca, Colombia · Remoto  
-💼 Actualmente desarrollador en **Proasistemas S.A.**
+💼 Actualmente desarrollador en **Proasistemas S.A.**  
+🌐 Portafolio: **[henavas.dev](https://henavas.dev)**
 
 ---
 
@@ -45,5 +46,6 @@ Ingeniero de Sistemas y Computación con +6 años construyendo backends en Pytho
 
 ### 📫 Contacto
 
+[![Portafolio](https://img.shields.io/badge/Portafolio-henavas.dev-111111?style=flat&logo=googlechrome&logoColor=white)](https://henavas.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-emmanuelnavas31-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuelnavas31/)
 [![Email](https://img.shields.io/badge/Email-emmanuelnavas31%40outlook.com-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:emmanuelnavas31@outlook.com)
