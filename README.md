@@ -5,7 +5,7 @@ Ingeniero de Sistemas y Computación con +6 años construyendo backends en Pytho
 
 📍 Arauca, Colombia · Remoto  
 💼 Actualmente desarrollador en **Proasistemas S.A.**  
-🌐 Portafolio: **[henavas.dev](https://henavas.dev)**
+🌐 Portafolio: **[emmanuelnavas.com](https://emmanuelnavas.com)**
 
 ---
 
@@ -46,6 +46,6 @@ Ingeniero de Sistemas y Computación con +6 años construyendo backends en Pytho
 
 ### 📫 Contacto
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-henavas.dev-111111?style=flat&logo=googlechrome&logoColor=white)](https://henavas.dev)
+[![Portafolio](https://img.shields.io/badge/Portafolio-emmanuelnavas.com-111111?style=flat&logo=googlechrome&logoColor=white)](https://emmanuelnavas.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-emmanuelnavas31-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuelnavas31/)
 [![Email](https://img.shields.io/badge/Email-emmanuelnavas31%40outlook.com-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:emmanuelnavas31@outlook.com)
