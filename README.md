@@ -4,7 +4,7 @@
 Ingeniero de Sistemas y Computación con +6 años construyendo backends en Python. Diseño APIs seguras y escalables, optimizo bases de datos y llevo las soluciones a la nube, integrando IA donde aporta valor real al negocio.
 
 📍 Arauca, Colombia · Remoto  
-💼 Actualmente desarrollador en **Proasistemas S.A.**  
+💼 Disponible para nuevas oportunidades · antes en **Proasistemas S.A.**  
 🌐 Portafolio: **[emmanuelnavas.com](https://emmanuelnavas.com)**
 
 ---
